@@ -82,16 +82,16 @@ Cellular network type: 4G
 Cellular Signal Strength: Good
 ```
 
-Note the location of the client on your floorplan. Then move to another locaiton and repeat the experiment.
+Note the location of the client on your floorplan. Then move to another location and repeat the experiment.
 
 
 # Processing the data and drawing a floormap
 
 Once you have collected as many reports as you needed, each time noting the location of the client on the map, you are ready to process the data and draw a map that represents the view of your client. For this, two Jupyter notebooks are at your disposal:
-* DataPrep helps format the data. The expectation is that, during the collection above, you used a basic export script (or you copy/pasted) the Scan Report and the Cellular sections to a txt file, one report after another. In another file, you probably documented the position of each collection point. So the DataPrep notebook helps you convert these raw data files into a nice .csv file that includes each locaiton, each AP, and the collected signal. I documented the process in the notebook, but contact me if you can't make it work.
-* wifi-heatmap is a modified version of the great work done by Beau Bunderson at https://github.com/beaugunderson/wifi-heatmap. Not all functions in his work were usueful for this map, and he uses functions that were probably great in the days of Python 2.7, so wifi-heatmap contains quite a few modifications and simplifications. The notebook takes the .csv file generated above, a floorplan semi-transparent .png file, and overlays the heatmap of each AP as seen from your client, something like this:
+* DataPrep helps format the data. The expectation is that, during the collection above, you used a basic export script (or you copy/pasted) the Scan Report and the Cellular sections to a txt file, one report after another. In another file, you probably documented the position of each collection point. So the DataPrep notebook helps you convert these raw data files into a nice .csv file that includes each location, each AP, and the collected signal. I documented the process in the notebook, but contact me if you can't make it work.
+* wifi-heatmap is a modified version of the great work done by Beau Bunderson at https://github.com/beaugunderson/wifi-heatmap. Not all functions in his work were useful for this map, and he uses functions that were probably great in the days of Python 2.7 (but I use Python 3.x), so wifi-heatmap contains quite a few modifications and simplifications. The notebook takes the .csv file generated above, a floorplan semi-transparent .png file, and overlays the heatmap of each AP as seen from your client, something like this:
 
-![alt text](https://github.com/jhenry-github/floor-heatmap/example-visual.png?raw=true)
+![alt text](https://github.com/jhenry-github/floor-heatmap/blob/main/example-visual.png?raw=true)
 
 As above, the notebook contains comments to help you, but reach out if you encounter issues.
 
