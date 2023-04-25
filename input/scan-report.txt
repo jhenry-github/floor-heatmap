@@ -1,0 +1,3120 @@
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 20:40:34
+  Channel    : 36
+  RSSI (dBm) : 71
+  SNR  (dB)  : 52
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 20:40:34
+  Channel    : 44
+  RSSI (dBm) : 83
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 20:40:34
+  Channel    : 100
+  RSSI (dBm) : 53
+  SNR  (dB)  : 58
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 20:40:34
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 27
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 20:40:34
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 34
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 20:47:12
+  Channel    : 36
+  RSSI (dBm) : 68
+  SNR  (dB)  : 37
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 20:47:12
+  Channel    : 44
+  RSSI (dBm) : 83
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 20:47:12
+  Channel    : 100
+  RSSI (dBm) : 54
+  SNR  (dB)  : 37
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 20:47:12
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 20:47:12
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 29
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 20:58:04
+  Channel    : 36
+  RSSI (dBm) : 54
+  SNR  (dB)  : 46
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 20:58:04
+  Channel    : 44
+  RSSI (dBm) : 82
+  SNR  (dB)  : 37
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 20:58:04
+  Channel    : 100
+  RSSI (dBm) : 46
+  SNR  (dB)  : 46
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 20:58:04
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 20:58:04
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 60
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Excellent
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:01:17
+  Channel    : 36
+  RSSI (dBm) : 51
+  SNR  (dB)  : 59
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:01:17
+  Channel    : 44
+  RSSI (dBm) : 81
+  SNR  (dB)  : 30
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:01:17
+  Channel    : 100
+  RSSI (dBm) : 56
+  SNR  (dB)  : 46
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:01:17
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:01:17
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 62
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:05:03
+  Channel    : 36
+  RSSI (dBm) : 68
+  SNR  (dB)  : 20
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:05:03
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:05:03
+  Channel    : 100
+  RSSI (dBm) : 61
+  SNR  (dB)  : 27
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:05:03
+  Channel    : 149
+  RSSI (dBm) : 83
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:05:03
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 41
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:15:24
+  Channel    : 36
+  RSSI (dBm) : 62
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:15:24
+  Channel    : 44
+  RSSI (dBm) : 82
+  SNR  (dB)  : 28
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:15:24
+  Channel    : 100
+  RSSI (dBm) : 63
+  SNR  (dB)  : 58
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:15:24
+  Channel    : 149
+  RSSI (dBm) : 81
+  SNR  (dB)  : 50
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:15:24
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 42
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:23:05
+  Channel    : 36
+  RSSI (dBm) : 46
+  SNR  (dB)  : 51
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:23:05
+  Channel    : 44
+  RSSI (dBm) : 79
+  SNR  (dB)  : 49
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:23:05
+  Channel    : 100
+  RSSI (dBm) : 62
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:23:05
+  Channel    : 149
+  RSSI (dBm) : 81
+  SNR  (dB)  : 62
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:23:05
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 40
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:27:40
+  Channel    : 36
+  RSSI (dBm) : 42
+  SNR  (dB)  : 56
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:27:40
+  Channel    : 44
+  RSSI (dBm) : 75
+  SNR  (dB)  : 41
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:27:40
+  Channel    : 100
+  RSSI (dBm) : 63
+  SNR  (dB)  : 40
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:27:40
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:27:40
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 55
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:37:22
+  Channel    : 36
+  RSSI (dBm) : 32
+  SNR  (dB)  : 52
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:37:22
+  Channel    : 44
+  RSSI (dBm) : 73
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:37:22
+  Channel    : 100
+  RSSI (dBm) : 65
+  SNR  (dB)  : 32
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:37:22
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:37:22
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 42
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:44:05
+  Channel    : 36
+  RSSI (dBm) : 48
+  SNR  (dB)  : 49
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:44:05
+  Channel    : 44
+  RSSI (dBm) : 83
+  SNR  (dB)  : 59
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:44:05
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 32
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:44:05
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:44:05
+  Channel    : 161
+  RSSI (dBm) : 73
+  SNR  (dB)  : 38
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:47:47
+  Channel    : 36
+  RSSI (dBm) : 52
+  SNR  (dB)  : 40
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:47:47
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:47:47
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 18
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:47:47
+  Channel    : 149
+  RSSI (dBm) : 77
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:47:47
+  Channel    : 161
+  RSSI (dBm) : 71
+  SNR  (dB)  : 34
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:54:32
+  Channel    : 36
+  RSSI (dBm) : 53
+  SNR  (dB)  : 24
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:54:32
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 41
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:54:32
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 51
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:54:32
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 20
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:54:32
+  Channel    : 161
+  RSSI (dBm) : 74
+  SNR  (dB)  : 28
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 21:59:25
+  Channel    : 36
+  RSSI (dBm) : 56
+  SNR  (dB)  : 43
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 21:59:25
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 21:59:25
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 37
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 21:59:25
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 21:59:25
+  Channel    : 161
+  RSSI (dBm) : 72
+  SNR  (dB)  : 62
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:03:56
+  Channel    : 36
+  RSSI (dBm) : 54
+  SNR  (dB)  : 48
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:03:56
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:03:56
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 32
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:03:56
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:03:56
+  Channel    : 161
+  RSSI (dBm) : 71
+  SNR  (dB)  : 25
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:13:38
+  Channel    : 36
+  RSSI (dBm) : 58
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:13:38
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 26
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:13:38
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 27
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:13:38
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 56
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:13:38
+  Channel    : 161
+  RSSI (dBm) : 73
+  SNR  (dB)  : 44
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:19:26
+  Channel    : 36
+  RSSI (dBm) : 63
+  SNR  (dB)  : 28
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:19:26
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:19:26
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 23
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:19:26
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 53
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:19:26
+  Channel    : 161
+  RSSI (dBm) : 51
+  SNR  (dB)  : 60
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:29:58
+  Channel    : 36
+  RSSI (dBm) : 59
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:29:58
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 19
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:29:58
+  Channel    : 100
+  RSSI (dBm) : 42
+  SNR  (dB)  : 36
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:29:58
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 45
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:29:58
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 50
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: 80
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:39:15
+  Channel    : 36
+  RSSI (dBm) : 61
+  SNR  (dB)  : 59
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:39:15
+  Channel    : 44
+  RSSI (dBm) : 72
+  SNR  (dB)  : 20
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:39:15
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 28
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:39:15
+  Channel    : 149
+  RSSI (dBm) : 83
+  SNR  (dB)  : 54
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:39:15
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 52
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:42:27
+  Channel    : 36
+  RSSI (dBm) : 52
+  SNR  (dB)  : 59
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:42:27
+  Channel    : 44
+  RSSI (dBm) : 65
+  SNR  (dB)  : 49
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:42:27
+  Channel    : 100
+  RSSI (dBm) : 50
+  SNR  (dB)  : 57
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:42:27
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:42:27
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 41
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:45:59
+  Channel    : 36
+  RSSI (dBm) : 45
+  SNR  (dB)  : 52
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:45:59
+  Channel    : 44
+  RSSI (dBm) : 60
+  SNR  (dB)  : 34
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:45:59
+  Channel    : 100
+  RSSI (dBm) : 52
+  SNR  (dB)  : 20
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:45:59
+  Channel    : 149
+  RSSI (dBm) : 75
+  SNR  (dB)  : 38
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:45:59
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 48
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:53:02
+  Channel    : 36
+  RSSI (dBm) : 34
+  SNR  (dB)  : 61
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:53:02
+  Channel    : 44
+  RSSI (dBm) : 57
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:53:02
+  Channel    : 100
+  RSSI (dBm) : 54
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:53:02
+  Channel    : 149
+  RSSI (dBm) : 70
+  SNR  (dB)  : 53
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:53:02
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 64
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 22:55:46
+  Channel    : 36
+  RSSI (dBm) : 33
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 22:55:46
+  Channel    : 44
+  RSSI (dBm) : 59
+  SNR  (dB)  : 46
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 22:55:46
+  Channel    : 100
+  RSSI (dBm) : 58
+  SNR  (dB)  : 30
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 22:55:46
+  Channel    : 149
+  RSSI (dBm) : 75
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 22:55:46
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 26
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:02:43
+  Channel    : 36
+  RSSI (dBm) : 61
+  SNR  (dB)  : 51
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:02:43
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:02:43
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 56
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:02:43
+  Channel    : 149
+  RSSI (dBm) : 58
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:02:43
+  Channel    : 161
+  RSSI (dBm) : 58
+  SNR  (dB)  : 38
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:05:58
+  Channel    : 36
+  RSSI (dBm) : 67
+  SNR  (dB)  : 23
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:05:58
+  Channel    : 44
+  RSSI (dBm) : 75
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:05:58
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 63
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:05:58
+  Channel    : 149
+  RSSI (dBm) : 58
+  SNR  (dB)  : 63
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:05:58
+  Channel    : 161
+  RSSI (dBm) : 57
+  SNR  (dB)  : 47
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:14:48
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 60
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:14:48
+  Channel    : 44
+  RSSI (dBm) : 81
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:14:48
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 25
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:14:48
+  Channel    : 149
+  RSSI (dBm) : 65
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:14:48
+  Channel    : 161
+  RSSI (dBm) : 46
+  SNR  (dB)  : 42
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:22:48
+  Channel    : 36
+  RSSI (dBm) : 84
+  SNR  (dB)  : 64
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:22:48
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 43
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:22:48
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 40
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:22:48
+  Channel    : 149
+  RSSI (dBm) : 81
+  SNR  (dB)  : 30
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:22:48
+  Channel    : 161
+  RSSI (dBm) : 38
+  SNR  (dB)  : 46
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:27:10
+  Channel    : 36
+  RSSI (dBm) : 69
+  SNR  (dB)  : 61
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:27:10
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:27:10
+  Channel    : 100
+  RSSI (dBm) : 36
+  SNR  (dB)  : 51
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:27:10
+  Channel    : 149
+  RSSI (dBm) : 83
+  SNR  (dB)  : 59
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:27:10
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 41
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: 80
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:31:44
+  Channel    : 36
+  RSSI (dBm) : 63
+  SNR  (dB)  : 63
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:31:44
+  Channel    : 44
+  RSSI (dBm) : 72
+  SNR  (dB)  : 56
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:31:44
+  Channel    : 100
+  RSSI (dBm) : 42
+  SNR  (dB)  : 23
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:31:44
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:31:44
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 62
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:37:38
+  Channel    : 36
+  RSSI (dBm) : 70
+  SNR  (dB)  : 24
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:37:38
+  Channel    : 44
+  RSSI (dBm) : 64
+  SNR  (dB)  : 54
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:37:38
+  Channel    : 100
+  RSSI (dBm) : 44
+  SNR  (dB)  : 25
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:37:38
+  Channel    : 149
+  RSSI (dBm) : 76
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:37:38
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 43
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:40:03
+  Channel    : 36
+  RSSI (dBm) : 48
+  SNR  (dB)  : 57
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:40:03
+  Channel    : 44
+  RSSI (dBm) : 57
+  SNR  (dB)  : 46
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:40:03
+  Channel    : 100
+  RSSI (dBm) : 46
+  SNR  (dB)  : 52
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:40:03
+  Channel    : 149
+  RSSI (dBm) : 71
+  SNR  (dB)  : 49
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:40:03
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 30
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:42:34
+  Channel    : 36
+  RSSI (dBm) : 39
+  SNR  (dB)  : 41
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:42:34
+  Channel    : 44
+  RSSI (dBm) : 50
+  SNR  (dB)  : 30
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:42:34
+  Channel    : 100
+  RSSI (dBm) : 49
+  SNR  (dB)  : 39
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:42:34
+  Channel    : 149
+  RSSI (dBm) : 64
+  SNR  (dB)  : 31
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:42:34
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 46
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:47:26
+  Channel    : 36
+  RSSI (dBm) : 42
+  SNR  (dB)  : 19
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:47:26
+  Channel    : 44
+  RSSI (dBm) : 46
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:47:26
+  Channel    : 100
+  RSSI (dBm) : 56
+  SNR  (dB)  : 20
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:47:26
+  Channel    : 149
+  RSSI (dBm) : 61
+  SNR  (dB)  : 34
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:47:26
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 23
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/24/2023 23:54:01
+  Channel    : 36
+  RSSI (dBm) : 67
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/24/2023 23:54:01
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 24
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/24/2023 23:54:01
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 24
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/24/2023 23:54:01
+  Channel    : 149
+  RSSI (dBm) : 36
+  SNR  (dB)  : 41
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/24/2023 23:54:01
+  Channel    : 161
+  RSSI (dBm) : 43
+  SNR  (dB)  : 41
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:00:03
+  Channel    : 36
+  RSSI (dBm) : 70
+  SNR  (dB)  : 18
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:00:03
+  Channel    : 44
+  RSSI (dBm) : 75
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:00:03
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 46
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:00:03
+  Channel    : 149
+  RSSI (dBm) : 51
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:00:03
+  Channel    : 161
+  RSSI (dBm) : 46
+  SNR  (dB)  : 58
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:10:29
+  Channel    : 36
+  RSSI (dBm) : 79
+  SNR  (dB)  : 52
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:10:29
+  Channel    : 44
+  RSSI (dBm) : 80
+  SNR  (dB)  : 64
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:10:29
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 53
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:10:29
+  Channel    : 149
+  RSSI (dBm) : 59
+  SNR  (dB)  : 35
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:10:29
+  Channel    : 161
+  RSSI (dBm) : 44
+  SNR  (dB)  : 36
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:20:49
+  Channel    : 36
+  RSSI (dBm) : 84
+  SNR  (dB)  : 30
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:20:49
+  Channel    : 44
+  RSSI (dBm) : 83
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:20:49
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 18
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:20:49
+  Channel    : 149
+  RSSI (dBm) : 77
+  SNR  (dB)  : 59
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:20:49
+  Channel    : 161
+  RSSI (dBm) : 31
+  SNR  (dB)  : 37
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:24:05
+  Channel    : 36
+  RSSI (dBm) : 76
+  SNR  (dB)  : 26
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:24:05
+  Channel    : 44
+  RSSI (dBm) : 73
+  SNR  (dB)  : 25
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:24:05
+  Channel    : 100
+  RSSI (dBm) : 43
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:24:05
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 25
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:24:05
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 19
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:28:53
+  Channel    : 36
+  RSSI (dBm) : 69
+  SNR  (dB)  : 41
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:28:53
+  Channel    : 44
+  RSSI (dBm) : 61
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:28:53
+  Channel    : 100
+  RSSI (dBm) : 30
+  SNR  (dB)  : 47
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:28:53
+  Channel    : 149
+  RSSI (dBm) : 78
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:28:53
+  Channel    : 161
+  RSSI (dBm) : 82
+  SNR  (dB)  : 38
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:35:24
+  Channel    : 36
+  RSSI (dBm) : 49
+  SNR  (dB)  : 60
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:35:24
+  Channel    : 44
+  RSSI (dBm) : 57
+  SNR  (dB)  : 62
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:35:24
+  Channel    : 100
+  RSSI (dBm) : 29
+  SNR  (dB)  : 45
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:35:24
+  Channel    : 149
+  RSSI (dBm) : 76
+  SNR  (dB)  : 45
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:35:24
+  Channel    : 161
+  RSSI (dBm) : 79
+  SNR  (dB)  : 27
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:38:06
+  Channel    : 36
+  RSSI (dBm) : 47
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:38:06
+  Channel    : 44
+  RSSI (dBm) : 51
+  SNR  (dB)  : 45
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:38:06
+  Channel    : 100
+  RSSI (dBm) : 35
+  SNR  (dB)  : 47
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:38:06
+  Channel    : 149
+  RSSI (dBm) : 69
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:38:06
+  Channel    : 161
+  RSSI (dBm) : 75
+  SNR  (dB)  : 26
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:40:13
+  Channel    : 36
+  RSSI (dBm) : 45
+  SNR  (dB)  : 56
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:40:13
+  Channel    : 44
+  RSSI (dBm) : 47
+  SNR  (dB)  : 54
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:40:13
+  Channel    : 100
+  RSSI (dBm) : 39
+  SNR  (dB)  : 37
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:40:13
+  Channel    : 149
+  RSSI (dBm) : 63
+  SNR  (dB)  : 37
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:40:13
+  Channel    : 161
+  RSSI (dBm) : 71
+  SNR  (dB)  : 43
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:48:23
+  Channel    : 36
+  RSSI (dBm) : 42
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:48:23
+  Channel    : 44
+  RSSI (dBm) : 44
+  SNR  (dB)  : 63
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:48:23
+  Channel    : 100
+  RSSI (dBm) : 44
+  SNR  (dB)  : 57
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:48:23
+  Channel    : 149
+  RSSI (dBm) : 57
+  SNR  (dB)  : 25
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:48:23
+  Channel    : 161
+  RSSI (dBm) : 64
+  SNR  (dB)  : 48
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 00:53:59
+  Channel    : 36
+  RSSI (dBm) : 50
+  SNR  (dB)  : 58
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 00:53:59
+  Channel    : 44
+  RSSI (dBm) : 42
+  SNR  (dB)  : 56
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 00:53:59
+  Channel    : 100
+  RSSI (dBm) : 51
+  SNR  (dB)  : 47
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 00:53:59
+  Channel    : 149
+  RSSI (dBm) : 51
+  SNR  (dB)  : 61
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 00:53:59
+  Channel    : 161
+  RSSI (dBm) : 61
+  SNR  (dB)  : 27
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:03:55
+  Channel    : 36
+  RSSI (dBm) : 69
+  SNR  (dB)  : 30
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:03:55
+  Channel    : 44
+  RSSI (dBm) : 68
+  SNR  (dB)  : 53
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:03:55
+  Channel    : 100
+  RSSI (dBm) : 76
+  SNR  (dB)  : 38
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:03:55
+  Channel    : 149
+  RSSI (dBm) : 34
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:03:55
+  Channel    : 161
+  RSSI (dBm) : 45
+  SNR  (dB)  : 28
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Poor
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:07:17
+  Channel    : 36
+  RSSI (dBm) : 73
+  SNR  (dB)  : 63
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:07:17
+  Channel    : 44
+  RSSI (dBm) : 74
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:07:17
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 33
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:07:17
+  Channel    : 149
+  RSSI (dBm) : 39
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:07:17
+  Channel    : 161
+  RSSI (dBm) : 37
+  SNR  (dB)  : 60
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Excellent
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:10:45
+  Channel    : 36
+  RSSI (dBm) : 78
+  SNR  (dB)  : 32
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:10:45
+  Channel    : 44
+  RSSI (dBm) : 78
+  SNR  (dB)  : 32
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:10:45
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 33
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:10:45
+  Channel    : 149
+  RSSI (dBm) : 48
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:10:45
+  Channel    : 161
+  RSSI (dBm) : 31
+  SNR  (dB)  : 24
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:15:46
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 21
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:15:46
+  Channel    : 44
+  RSSI (dBm) : 81
+  SNR  (dB)  : 49
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:15:46
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 44
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:15:46
+  Channel    : 149
+  RSSI (dBm) : 56
+  SNR  (dB)  : 61
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:15:46
+  Channel    : 161
+  RSSI (dBm) : 26
+  SNR  (dB)  : 59
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:21:47
+  Channel    : 36
+  RSSI (dBm) : 71
+  SNR  (dB)  : 33
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:21:47
+  Channel    : 44
+  RSSI (dBm) : 79
+  SNR  (dB)  : 60
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:21:47
+  Channel    : 100
+  RSSI (dBm) : 46
+  SNR  (dB)  : 48
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:21:47
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:21:47
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 35
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:26:59
+  Channel    : 36
+  RSSI (dBm) : 70
+  SNR  (dB)  : 57
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:26:59
+  Channel    : 44
+  RSSI (dBm) : 73
+  SNR  (dB)  : 44
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:26:59
+  Channel    : 100
+  RSSI (dBm) : 44
+  SNR  (dB)  : 40
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:26:59
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 64
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:26:59
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 50
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:30:03
+  Channel    : 36
+  RSSI (dBm) : 55
+  SNR  (dB)  : 40
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:30:03
+  Channel    : 44
+  RSSI (dBm) : 53
+  SNR  (dB)  : 19
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:30:03
+  Channel    : 100
+  RSSI (dBm) : 40
+  SNR  (dB)  : 60
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:30:03
+  Channel    : 149
+  RSSI (dBm) : 82
+  SNR  (dB)  : 26
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:30:03
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 30
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:38:52
+  Channel    : 36
+  RSSI (dBm) : 54
+  SNR  (dB)  : 64
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:38:52
+  Channel    : 44
+  RSSI (dBm) : 51
+  SNR  (dB)  : 24
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:38:52
+  Channel    : 100
+  RSSI (dBm) : 43
+  SNR  (dB)  : 22
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:38:52
+  Channel    : 149
+  RSSI (dBm) : 81
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:38:52
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 61
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:41:22
+  Channel    : 36
+  RSSI (dBm) : 52
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:41:22
+  Channel    : 44
+  RSSI (dBm) : 48
+  SNR  (dB)  : 43
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:41:22
+  Channel    : 100
+  RSSI (dBm) : 45
+  SNR  (dB)  : 62
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:41:22
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 26
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:41:22
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 61
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:44:10
+  Channel    : 36
+  RSSI (dBm) : 52
+  SNR  (dB)  : 64
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:44:10
+  Channel    : 44
+  RSSI (dBm) : 43
+  SNR  (dB)  : 31
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:44:10
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 55
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:44:10
+  Channel    : 149
+  RSSI (dBm) : 74
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:44:10
+  Channel    : 161
+  RSSI (dBm) : 79
+  SNR  (dB)  : 45
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:48:07
+  Channel    : 36
+  RSSI (dBm) : 52
+  SNR  (dB)  : 36
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:48:07
+  Channel    : 44
+  RSSI (dBm) : 68
+  SNR  (dB)  : 38
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:48:07
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 36
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:48:07
+  Channel    : 149
+  RSSI (dBm) : 69
+  SNR  (dB)  : 61
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:48:07
+  Channel    : 161
+  RSSI (dBm) : 79
+  SNR  (dB)  : 51
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:57:14
+  Channel    : 36
+  RSSI (dBm) : 55
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:57:14
+  Channel    : 44
+  RSSI (dBm) : 38
+  SNR  (dB)  : 45
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:57:14
+  Channel    : 100
+  RSSI (dBm) : 51
+  SNR  (dB)  : 34
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:57:14
+  Channel    : 149
+  RSSI (dBm) : 68
+  SNR  (dB)  : 46
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:57:14
+  Channel    : 161
+  RSSI (dBm) : 76
+  SNR  (dB)  : 42
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 01:59:52
+  Channel    : 36
+  RSSI (dBm) : 60
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 01:59:52
+  Channel    : 44
+  RSSI (dBm) : 47
+  SNR  (dB)  : 43
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 01:59:52
+  Channel    : 100
+  RSSI (dBm) : 65
+  SNR  (dB)  : 35
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 01:59:52
+  Channel    : 149
+  RSSI (dBm) : 48
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 01:59:52
+  Channel    : 161
+  RSSI (dBm) : 75
+  SNR  (dB)  : 58
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:02:07
+  Channel    : 36
+  RSSI (dBm) : 66
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:02:07
+  Channel    : 44
+  RSSI (dBm) : 50
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:02:07
+  Channel    : 100
+  RSSI (dBm) : 74
+  SNR  (dB)  : 31
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:02:07
+  Channel    : 149
+  RSSI (dBm) : 42
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:02:07
+  Channel    : 161
+  RSSI (dBm) : 66
+  SNR  (dB)  : 26
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:04:19
+  Channel    : 36
+  RSSI (dBm) : 66
+  SNR  (dB)  : 40
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:04:19
+  Channel    : 44
+  RSSI (dBm) : 42
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:04:19
+  Channel    : 100
+  RSSI (dBm) : 67
+  SNR  (dB)  : 18
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:04:19
+  Channel    : 149
+  RSSI (dBm) : 51
+  SNR  (dB)  : 56
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:04:19
+  Channel    : 161
+  RSSI (dBm) : 77
+  SNR  (dB)  : 55
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:14:27
+  Channel    : 36
+  RSSI (dBm) : 69
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:14:27
+  Channel    : 44
+  RSSI (dBm) : 47
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:14:27
+  Channel    : 100
+  RSSI (dBm) : 76
+  SNR  (dB)  : 27
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:14:27
+  Channel    : 149
+  RSSI (dBm) : 44
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:14:27
+  Channel    : 161
+  RSSI (dBm) : 69
+  SNR  (dB)  : 23
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:17:35
+  Channel    : 36
+  RSSI (dBm) : 70
+  SNR  (dB)  : 39
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:17:35
+  Channel    : 44
+  RSSI (dBm) : 54
+  SNR  (dB)  : 63
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:17:35
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 57
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:17:35
+  Channel    : 149
+  RSSI (dBm) : 31
+  SNR  (dB)  : 36
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:17:35
+  Channel    : 161
+  RSSI (dBm) : 56
+  SNR  (dB)  : 32
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:21:01
+  Channel    : 36
+  RSSI (dBm) : 74
+  SNR  (dB)  : 64
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:21:01
+  Channel    : 44
+  RSSI (dBm) : 66
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:21:01
+  Channel    : 100
+  RSSI (dBm) : 82
+  SNR  (dB)  : 51
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:21:01
+  Channel    : 149
+  RSSI (dBm) : 41
+  SNR  (dB)  : 54
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:21:01
+  Channel    : 161
+  RSSI (dBm) : 58
+  SNR  (dB)  : 48
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:30:54
+  Channel    : 36
+  RSSI (dBm) : 76
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:30:54
+  Channel    : 44
+  RSSI (dBm) : 62
+  SNR  (dB)  : 27
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:30:54
+  Channel    : 100
+  RSSI (dBm) : 82
+  SNR  (dB)  : 52
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:30:54
+  Channel    : 149
+  RSSI (dBm) : 43
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:30:54
+  Channel    : 161
+  RSSI (dBm) : 61
+  SNR  (dB)  : 21
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:40:24
+  Channel    : 36
+  RSSI (dBm) : 77
+  SNR  (dB)  : 30
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:40:24
+  Channel    : 44
+  RSSI (dBm) : 74
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:40:24
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 34
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:40:24
+  Channel    : 149
+  RSSI (dBm) : 49
+  SNR  (dB)  : 62
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:40:24
+  Channel    : 161
+  RSSI (dBm) : 55
+  SNR  (dB)  : 38
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:45:54
+  Channel    : 36
+  RSSI (dBm) : 77
+  SNR  (dB)  : 44
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:45:54
+  Channel    : 44
+  RSSI (dBm) : 78
+  SNR  (dB)  : 33
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:45:54
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 46
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:45:54
+  Channel    : 149
+  RSSI (dBm) : 52
+  SNR  (dB)  : 30
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:45:54
+  Channel    : 161
+  RSSI (dBm) : 50
+  SNR  (dB)  : 32
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:53:30
+  Channel    : 36
+  RSSI (dBm) : 78
+  SNR  (dB)  : 54
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:53:30
+  Channel    : 44
+  RSSI (dBm) : 81
+  SNR  (dB)  : 27
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:53:30
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 32
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:53:30
+  Channel    : 149
+  RSSI (dBm) : 57
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:53:30
+  Channel    : 161
+  RSSI (dBm) : 47
+  SNR  (dB)  : 53
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 02:59:42
+  Channel    : 36
+  RSSI (dBm) : 78
+  SNR  (dB)  : 63
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 02:59:42
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 48
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 02:59:42
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 50
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 02:59:42
+  Channel    : 149
+  RSSI (dBm) : 61
+  SNR  (dB)  : 22
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 02:59:42
+  Channel    : 161
+  RSSI (dBm) : 48
+  SNR  (dB)  : 58
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:07:24
+  Channel    : 36
+  RSSI (dBm) : 80
+  SNR  (dB)  : 31
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:07:24
+  Channel    : 44
+  RSSI (dBm) : 78
+  SNR  (dB)  : 20
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:07:24
+  Channel    : 100
+  RSSI (dBm) : 47
+  SNR  (dB)  : 35
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:07:24
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 32
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:07:24
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 60
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:14:00
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 27
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:14:00
+  Channel    : 44
+  RSSI (dBm) : 69
+  SNR  (dB)  : 46
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:14:00
+  Channel    : 100
+  RSSI (dBm) : 46
+  SNR  (dB)  : 27
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:14:00
+  Channel    : 149
+  RSSI (dBm) : 83
+  SNR  (dB)  : 64
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:14:00
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 21
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:16:39
+  Channel    : 36
+  RSSI (dBm) : 63
+  SNR  (dB)  : 18
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:16:39
+  Channel    : 44
+  RSSI (dBm) : 42
+  SNR  (dB)  : 48
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:16:39
+  Channel    : 100
+  RSSI (dBm) : 43
+  SNR  (dB)  : 18
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:16:39
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 31
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:16:39
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 44
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:22:30
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 37
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:22:30
+  Channel    : 44
+  RSSI (dBm) : 40
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:22:30
+  Channel    : 100
+  RSSI (dBm) : 46
+  SNR  (dB)  : 59
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:22:30
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 62
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:22:30
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 41
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:26:57
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 59
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:26:57
+  Channel    : 44
+  RSSI (dBm) : 38
+  SNR  (dB)  : 59
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:26:57
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 60
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:26:57
+  Channel    : 149
+  RSSI (dBm) : 76
+  SNR  (dB)  : 26
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:26:57
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 39
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:33:48
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 28
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:33:48
+  Channel    : 44
+  RSSI (dBm) : 34
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:33:48
+  Channel    : 100
+  RSSI (dBm) : 51
+  SNR  (dB)  : 31
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:33:48
+  Channel    : 149
+  RSSI (dBm) : 71
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:33:48
+  Channel    : 161
+  RSSI (dBm) : 76
+  SNR  (dB)  : 32
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:36:02
+  Channel    : 36
+  RSSI (dBm) : 64
+  SNR  (dB)  : 30
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:36:02
+  Channel    : 44
+  RSSI (dBm) : 29
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:36:02
+  Channel    : 100
+  RSSI (dBm) : 54
+  SNR  (dB)  : 31
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:36:02
+  Channel    : 149
+  RSSI (dBm) : 62
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:36:02
+  Channel    : 161
+  RSSI (dBm) : 74
+  SNR  (dB)  : 30
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:41:57
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 34
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:41:57
+  Channel    : 44
+  RSSI (dBm) : 62
+  SNR  (dB)  : 20
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:41:57
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 63
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:41:57
+  Channel    : 149
+  RSSI (dBm) : 38
+  SNR  (dB)  : 64
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:41:57
+  Channel    : 161
+  RSSI (dBm) : 57
+  SNR  (dB)  : 49
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:44:52
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 41
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:44:52
+  Channel    : 44
+  RSSI (dBm) : 68
+  SNR  (dB)  : 36
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:44:52
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 38
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:44:52
+  Channel    : 149
+  RSSI (dBm) : 44
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:44:52
+  Channel    : 161
+  RSSI (dBm) : 53
+  SNR  (dB)  : 54
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:48:20
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 46
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:48:20
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 58
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:48:20
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 54
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:48:20
+  Channel    : 149
+  RSSI (dBm) : 51
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:48:20
+  Channel    : 161
+  RSSI (dBm) : 48
+  SNR  (dB)  : 64
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 03:57:00
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 03:57:00
+  Channel    : 44
+  RSSI (dBm) : 80
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 03:57:00
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 51
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 03:57:00
+  Channel    : 149
+  RSSI (dBm) : 58
+  SNR  (dB)  : 60
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 03:57:00
+  Channel    : 161
+  RSSI (dBm) : 45
+  SNR  (dB)  : 40
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:02:53
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 55
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:02:53
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 31
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:02:53
+  Channel    : 100
+  RSSI (dBm) : 83
+  SNR  (dB)  : 43
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:02:53
+  Channel    : 149
+  RSSI (dBm) : 61
+  SNR  (dB)  : 31
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:02:53
+  Channel    : 161
+  RSSI (dBm) : 48
+  SNR  (dB)  : 58
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:06:35
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 40
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:06:35
+  Channel    : 44
+  RSSI (dBm) : 74
+  SNR  (dB)  : 26
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:06:35
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 58
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:06:35
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:06:35
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 34
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:13:58
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 27
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:13:58
+  Channel    : 44
+  RSSI (dBm) : 66
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:13:58
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 33
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:13:58
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 54
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:13:58
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 64
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:20:17
+  Channel    : 36
+  RSSI (dBm) : 83
+  SNR  (dB)  : 19
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:20:17
+  Channel    : 44
+  RSSI (dBm) : 42
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:20:17
+  Channel    : 100
+  RSSI (dBm) : 48
+  SNR  (dB)  : 53
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:20:17
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 55
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:20:17
+  Channel    : 161
+  RSSI (dBm) : 83
+  SNR  (dB)  : 45
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:22:32
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 56
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:22:32
+  Channel    : 44
+  RSSI (dBm) : 39
+  SNR  (dB)  : 32
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:22:32
+  Channel    : 100
+  RSSI (dBm) : 49
+  SNR  (dB)  : 25
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:22:32
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:22:32
+  Channel    : 161
+  RSSI (dBm) : 82
+  SNR  (dB)  : 57
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:32:32
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 53
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:32:32
+  Channel    : 44
+  RSSI (dBm) : 36
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:32:32
+  Channel    : 100
+  RSSI (dBm) : 54
+  SNR  (dB)  : 37
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:32:32
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 34
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:32:32
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 47
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:43:15
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 49
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:43:15
+  Channel    : 44
+  RSSI (dBm) : 32
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:43:15
+  Channel    : 100
+  RSSI (dBm) : 59
+  SNR  (dB)  : 40
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:43:15
+  Channel    : 149
+  RSSI (dBm) : 73
+  SNR  (dB)  : 19
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:43:15
+  Channel    : 161
+  RSSI (dBm) : 78
+  SNR  (dB)  : 26
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:46:13
+  Channel    : 36
+  RSSI (dBm) : 82
+  SNR  (dB)  : 64
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:46:13
+  Channel    : 44
+  RSSI (dBm) : 26
+  SNR  (dB)  : 47
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:46:13
+  Channel    : 100
+  RSSI (dBm) : 62
+  SNR  (dB)  : 34
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:46:13
+  Channel    : 149
+  RSSI (dBm) : 72
+  SNR  (dB)  : 50
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:46:13
+  Channel    : 161
+  RSSI (dBm) : 76
+  SNR  (dB)  : 50
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:48:49
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 57
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:48:49
+  Channel    : 44
+  RSSI (dBm) : 41
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:48:49
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 34
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:48:49
+  Channel    : 149
+  RSSI (dBm) : 68
+  SNR  (dB)  : 44
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:48:49
+  Channel    : 161
+  RSSI (dBm) : 79
+  SNR  (dB)  : 23
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 04:51:55
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 38
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 04:51:55
+  Channel    : 44
+  RSSI (dBm) : 45
+  SNR  (dB)  : 25
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 04:51:55
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 04:51:55
+  Channel    : 149
+  RSSI (dBm) : 64
+  SNR  (dB)  : 63
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 04:51:55
+  Channel    : 161
+  RSSI (dBm) : 79
+  SNR  (dB)  : 33
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:01:58
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 60
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:01:58
+  Channel    : 44
+  RSSI (dBm) : 49
+  SNR  (dB)  : 32
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:01:58
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 24
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:01:58
+  Channel    : 149
+  RSSI (dBm) : 59
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:01:58
+  Channel    : 161
+  RSSI (dBm) : 77
+  SNR  (dB)  : 28
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:10:31
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 49
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:10:31
+  Channel    : 44
+  RSSI (dBm) : 52
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:10:31
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 36
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:10:31
+  Channel    : 149
+  RSSI (dBm) : 51
+  SNR  (dB)  : 52
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:10:31
+  Channel    : 161
+  RSSI (dBm) : 76
+  SNR  (dB)  : 47
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:20:31
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 36
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:20:31
+  Channel    : 44
+  RSSI (dBm) : 48
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:20:31
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 64
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:20:31
+  Channel    : 149
+  RSSI (dBm) : 50
+  SNR  (dB)  : 27
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:20:31
+  Channel    : 161
+  RSSI (dBm) : 74
+  SNR  (dB)  : 34
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:28:03
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 24
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:28:03
+  Channel    : 44
+  RSSI (dBm) : 63
+  SNR  (dB)  : 53
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:28:03
+  Channel    : 100
+  RSSI (dBm) : 80
+  SNR  (dB)  : 20
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:28:03
+  Channel    : 149
+  RSSI (dBm) : 75
+  SNR  (dB)  : 21
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:28:03
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 36
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 2G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:36:39
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 47
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:36:39
+  Channel    : 44
+  RSSI (dBm) : 76
+  SNR  (dB)  : 30
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:36:39
+  Channel    : 100
+  RSSI (dBm) : 54
+  SNR  (dB)  : 19
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:36:39
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 37
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:36:39
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 54
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:45:38
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 44
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:45:38
+  Channel    : 44
+  RSSI (dBm) : 61
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:45:38
+  Channel    : 100
+  RSSI (dBm) : 53
+  SNR  (dB)  : 19
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:45:38
+  Channel    : 149
+  RSSI (dBm) : 84
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:45:38
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 64
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Great
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:50:29
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 29
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:50:29
+  Channel    : 44
+  RSSI (dBm) : 64
+  SNR  (dB)  : 51
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:50:29
+  Channel    : 100
+  RSSI (dBm) : 53
+  SNR  (dB)  : 31
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:50:29
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 44
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:50:29
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 60
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:55:26
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 63
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:55:26
+  Channel    : 44
+  RSSI (dBm) : 52
+  SNR  (dB)  : 28
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:55:26
+  Channel    : 100
+  RSSI (dBm) : 56
+  SNR  (dB)  : 50
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:55:26
+  Channel    : 149
+  RSSI (dBm) : 80
+  SNR  (dB)  : 42
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:55:26
+  Channel    : 161
+  RSSI (dBm) : 84
+  SNR  (dB)  : 54
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 05:58:04
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 05:58:04
+  Channel    : 44
+  RSSI (dBm) : 48
+  SNR  (dB)  : 44
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 05:58:04
+  Channel    : 100
+  RSSI (dBm) : 59
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 05:58:04
+  Channel    : 149
+  RSSI (dBm) : 79
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 05:58:04
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 53
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:06:47
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 47
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:06:47
+  Channel    : 44
+  RSSI (dBm) : 45
+  SNR  (dB)  : 50
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:06:47
+  Channel    : 100
+  RSSI (dBm) : 63
+  SNR  (dB)  : 64
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:06:47
+  Channel    : 149
+  RSSI (dBm) : 73
+  SNR  (dB)  : 35
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:06:47
+  Channel    : 161
+  RSSI (dBm) : 77
+  SNR  (dB)  : 25
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:09:33
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 27
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:09:33
+  Channel    : 44
+  RSSI (dBm) : 31
+  SNR  (dB)  : 50
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:09:33
+  Channel    : 100
+  RSSI (dBm) : 66
+  SNR  (dB)  : 43
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:09:33
+  Channel    : 149
+  RSSI (dBm) : 69
+  SNR  (dB)  : 18
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:09:33
+  Channel    : 161
+  RSSI (dBm) : 75
+  SNR  (dB)  : 48
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:15:38
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 36
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:15:38
+  Channel    : 44
+  RSSI (dBm) : 42
+  SNR  (dB)  : 52
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:15:38
+  Channel    : 100
+  RSSI (dBm) : 72
+  SNR  (dB)  : 40
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:15:38
+  Channel    : 149
+  RSSI (dBm) : 65
+  SNR  (dB)  : 37
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:15:38
+  Channel    : 161
+  RSSI (dBm) : 69
+  SNR  (dB)  : 55
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:18:04
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 27
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:18:04
+  Channel    : 44
+  RSSI (dBm) : 45
+  SNR  (dB)  : 39
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:18:04
+  Channel    : 100
+  RSSI (dBm) : 82
+  SNR  (dB)  : 45
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:18:04
+  Channel    : 149
+  RSSI (dBm) : 56
+  SNR  (dB)  : 40
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:18:04
+  Channel    : 161
+  RSSI (dBm) : 72
+  SNR  (dB)  : 57
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: Good
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:27:18
+  Channel    : 36
+  RSSI (dBm) : 85
+  SNR  (dB)  : 57
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:27:18
+  Channel    : 44
+  RSSI (dBm) : 58
+  SNR  (dB)  : 23
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:27:18
+  Channel    : 100
+  RSSI (dBm) : 84
+  SNR  (dB)  : 54
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:27:18
+  Channel    : 149
+  RSSI (dBm) : 74
+  SNR  (dB)  : 29
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:27:18
+  Channel    : 161
+  RSSI (dBm) : 76
+  SNR  (dB)  : 29
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 4G
+Cellular Signal Strength: 71
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:29:26
+  Channel    : 36
+  RSSI (dBm) : 61
+  SNR  (dB)  : 44
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:29:26
+  Channel    : 44
+  RSSI (dBm) : 58
+  SNR  (dB)  : 50
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:29:26
+  Channel    : 100
+  RSSI (dBm) : 62
+  SNR  (dB)  : 46
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:29:26
+  Channel    : 149
+  RSSI (dBm) : 33
+  SNR  (dB)  : 28
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:29:26
+  Channel    : 161
+  RSSI (dBm) : 52
+  SNR  (dB)  : 40
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Excellent
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:35:58
+  Channel    : 36
+  RSSI (dBm) : 48
+  SNR  (dB)  : 22
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:35:58
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 52
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:35:58
+  Channel    : 100
+  RSSI (dBm) : 71
+  SNR  (dB)  : 41
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:35:58
+  Channel    : 149
+  RSSI (dBm) : 75
+  SNR  (dB)  : 57
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:35:58
+  Channel    : 161
+  RSSI (dBm) : 80
+  SNR  (dB)  : 61
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Moderate
+
+BSSID        : c4f7.d54b.bc2f
+  Time       : 04/25/2023 06:40:53
+  Channel    : 36
+  RSSI (dBm) : 64
+  SNR  (dB)  : 62
+BSSID        : 1416.9d29.87cf
+  Time       : 04/25/2023 06:40:53
+  Channel    : 44
+  RSSI (dBm) : 84
+  SNR  (dB)  : 19
+BSSID        : 00fc.ba97.a1cf
+  Time       : 04/25/2023 06:40:53
+  Channel    : 100
+  RSSI (dBm) : 76
+  SNR  (dB)  : 28
+BSSID        : c4f7.d52c.dabf
+  Time       : 04/25/2023 06:40:53
+  Channel    : 149
+  RSSI (dBm) : 76
+  SNR  (dB)  : 49
+BSSID        : 00fc.ba99.bdaf
+  Time       : 04/25/2023 06:40:53
+  Channel    : 161
+  RSSI (dBm) : 78
+  SNR  (dB)  : 20
+
+WiFi to Cellular Steering : Implemented
+Cellular network type: 3G
+Cellular Signal Strength: Moderate
+
