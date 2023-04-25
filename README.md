@@ -7,23 +7,23 @@ This setup supposes a C9800 WLC (running 17.1.1 or later), any C9100 AP or newer
 
 On your WLC, create a WLAN (for example 'Corporate' below), and make sure that MBO is enabled:
 
-...
+```
 C9800(config)#wlan Corporate
 C9800(config-wlan)#shut
 C9800(config-wlan)#mbo 
 C9800(config-wlan)#no shut
 C9800(config-wlan)#exit
-...
+```
 
 Also make sure that network assurance is enabled on your C9800 (this is a global command):
-...
+```
 C9800(config)#network-assurance enable
-...
+```
 
 # Running the capture
 
 Once you have a Samsung client connected to your WLAN, check its MAC address, and also that it supports MBO:
-...
+```
 C9800#show wireless client summary 
 Number of Clients: 1
 
@@ -32,27 +32,27 @@ MAC Address    AP Name                                        Type ID   State   
 28c2.1f97.95ce AP2C57.4158.0AF8                               WLAN 1    Run               11ax(2.4) None       Local             
 
 Number of Excluded Clients: 0
-...
+```
 
 The client here is 28c2.1f97.95ce. When checking the client details, I can see that it supports MBO, namely link measurements, but also beacon reports:
-...
+```
 C9800#show wireless client mac-address 28c2.1f97.95ce detail | section Radio Meas
 Radio Measurement Enabled Capabilities
   Capabilities: Link Measurement, Neighbor Report, Passive Beacon Measurement, Active Beacon Measurement, Table Beacon Measurement, Statistics Measurement, AP Channel Report
 C9800#
-...
+```
 
 You are ready to request your client to go scan channels and report its view of the Wi-Fi links. Note that you 'could' also use an Intel client (any 11ax client like the AX200 or newer) with the C9800 running IOS-XE 17.6.1. The main difference is that the Samsung Galaxy phone can also report the cellular connection signal level (which is great!), while the Intel client, expected to be on a laptop, does not suppose an LTE connection (and thus does not report it). 
 
 To take a capture, use the scan-report command to tell your client which channels to visit and report about. An example is as follows:
-...
+```
 C9800# wireless client mac-address 28c2.1f97.95ce scan-report once mode active bssid all ssid all operating-class 115 channel all delay default duration default
-...
+```
 
 As usual on IOS-XE, afgter each keyword, you can use the question mark to see the options and get a brief explanation of each option.
 
 The phone will go scan, come back on the current channel and report back to the AP. You can see the report details on the WLC CLI, in the client 'detail' section, for example:
-...
+```
 C9800#show wireless client mac-address 28c2.1f97.95ce detail | section Scan Report
 Client Scan Report Time : Timer not running
 Client Scan Reports 
@@ -72,15 +72,15 @@ Client Scan Reports
     Channel    : 161
     RSSI (dBm) : 42
     SNR  (dB)  : 36
-...
+```
 
 As the request is made to the Samsung Galaxy phone, it will also report its LTE signal level:
-...
+```
 C9800#show wireless client mac-address 28c2.1f97.95ce detail | section Cellular
 WiFi to Cellular Steering : Implemented
 Cellular network type: 4G
 Cellular Signal Strength: Good
-...
+```
 
 Note the location of the client on your floorplan. Then move to another locaiton and repeat the experiment.
 
