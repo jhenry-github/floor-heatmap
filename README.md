@@ -1,5 +1,9 @@
-# floor-heatmap
-A short python script to draw a floor heatmap from a Wi-Fi client MBO responses on Cisco WLCs. The WLC asks the client to go scan one or more Wi-Fi channels, and report back how it hears the APs on those channels, thus giving you the 'view of the client', that you can combine with how the APs hear that client, and thus get a two-way view of the RF environement.
+# What this is
+With a Samsung client or an Intel client and a Cisco WLC/AP, you can map the the RF view of the client on a floomap. This is similar to what you would do when using a simple site survey tool, except that you don't need a site survey tool on your client.
+
+You need to have a laptop (I use MacOS, so this demo is heavily geared toward Mac, but the same principles will work on Linux or Windows, you may just need to research a bit how to install the tools). On the laptop, you run a small app (node.js) that activates a small web server (the server stops as soon as you stop running the app, so you are not converting your laptop into a server, you are just manually running an app). You can then connect to that web server (from the laptop where you run it or from another machine), then upload a floor map. When you walk the floor (with your Samsung/Intel client), you then click where you are on the map. The server saves your coordinates, and instructs your WLC to query your Samsung/Intel client for its RF view (all the APs the client sees from that spot). All that data is saved. Repeat throughout the floor.
+
+Then, at the end, two scripts allow you to cleanup the files you collected during your walk (DataPrep.ipynb) and plot the RF heatmaps of your APs, as seen by the client as you walked around (WiFi-heatmap.ipynb). These files use Jupypter notebook, but they are basic Python script, you can also open them with an editor and run the Python code outside of Jupyter if you prefer. 
 
 # Setup
 
@@ -20,7 +24,7 @@ Also make sure that network assurance is enabled on your C9800 (this is a global
 C9800(config)#network-assurance enable
 ```
 
-# Running the capture
+# Manually running the capture (to verify)
 
 Once you have a Samsung client connected to your WLAN, check its MAC address, and also that it supports MBO:
 ```
@@ -84,11 +88,50 @@ Cellular Signal Strength: Good
 
 Note the location of the client on your floorplan. Then move to another location and repeat the experiment.
 
+# Running a web server to automate the process
+
+It is much easier to have a floorplan and click where you are, so the system automatically records your coordinates on the floor, and the client view at that position. To do so (this example uses MacOS), you need a small web server running on your laptop and a few scripts. On your laptop, you need node.js and a few accompanying modules. You can install node.js a few ways, I like [nvm-sh](https://github.com/nvm-sh/nvm#installing-and-updating). With this tool installed, you can install node.js with a simple:
+```
+nvm install --lts
+```
+
+Once you have node.js, also install a few helpful modules:
+```
+npm install express multer expect body-parser
+```
+
+In order to connect to the WLC automatically, I use sshpass. Be careful, this tool allows you to store your WLC credentials in the clear, and bypass verification when connecting to the WLC. For a personal laptop and a lab/research project, this is acceptable (because I trust my WLC, so I don't need to verify that no one is impersonating it, and I run node.js on my laptop, so I don't care if the credentials to my WLC are stored in the clear on my mini-web server for the duration of the measurements (things get cleaned up as yous top node.js)), but it would not be okay on a machine exposed to unknown users, and you would of course not use sshpass for security-sensitive applications on a real web server, connected to the Internet. You can install sshpass a few ways, for example with homebrew:
+```
+brew install esolitos/ipa/sshpass
+```
+
+Okay, you have everything. Download the Website folder from this repository. Make sure that the collect_data.exp script can be executed (it will be the one getting to your WLC and fetching the client view). On Mac, from the shell:
+```
+chmod u+x collect_data.exp
+```
+
+# Collecting data
+
+One everything is installed, from the shell, go to the Website foloder, and start node.js with:
+```
+node server.js
+```
+
+You should see a message telling you that the server is running on port 3000. The server is ready. You can connect to it locally with a web browser (localhost:3000), or from anotehr machine (<your laptop IP address>:3000).
+
+The web page will first ask you for your WLC IP address, admin credentials, and the MAC address of the Samsung/Intel client you will use for data collection.
+
+Then, the server will ask you to upload a floorplan image (any standard graphical image format should work). To know the scale of your floorplan, the system will assume that the upper-left corner of the image is (0,0), and will ask you the coordinates of the lower-right corner of the image. The unit (meters, feet, or other) does not matter, as long as you know what you use. The system will use that information to scale the coordinates of the points you click (so, if you declare that your bottom-righ corner coordinates are (100,50), and you click right in the midle of the image, the system will record the position (50, 25)).
+
+Once the map is uploaded, all you need to do is walk the floor, then click on the map where you are. The server will record your current position (X,Y) in the positions.txt file, and will conenct to your WLC with the credentials you entered, and will collect from your client its view of all channels, that the server will save in output.txt. Teh data is raw, and will be cleaned up at next stage. Repeat for all the points on the floow where you want to colelct the client's view.
+
+
+
 
 # Processing the data and drawing a floormap
 
 Once you have collected as many reports as you needed, each time noting the location of the client on the map, you are ready to process the data and draw a map that represents the view of your client. For this, two Jupyter notebooks are at your disposal:
-* DataPrep helps format the data. The expectation is that, during the collection above, you used a basic export script (or you copy/pasted) the Scan Report and the Cellular sections to a txt file, one report after another. In another file, you probably documented the position of each collection point. So the DataPrep notebook helps you convert these raw data files into a nice .csv file that includes each location, each AP, and the collected signal. I documented the process in the notebook, but contact me if you can't make it work.
+* DataPrep helps format the data. The expectation is that, during the collection above, you used the above, or another basic export script (or you copy/pasted) the Scan Report and the Cellular sections to a txt file, one report after another. In another file, you documented the position of each collection point. So the DataPrep notebook helps you convert these raw data files into a nice .csv file that includes each location, each AP, and the collected signal. I documented the process in the notebook, but contact me if you can't make it work.
 * wifi-heatmap is a modified version of the great work done by Beau Bunderson at https://github.com/beaugunderson/wifi-heatmap. Not all functions in his work were useful for this map, and he uses functions that were probably great in the days of Python 2.7 (but I use Python 3.x), so wifi-heatmap contains quite a few modifications and simplifications. The notebook takes the .csv file generated above, a floorplan semi-transparent .png file, and overlays the heatmap of each AP as seen from your client, something like this:
 
 ![alt text](https://github.com/jhenry-github/floor-heatmap/blob/main/example-visual.png?raw=true)
