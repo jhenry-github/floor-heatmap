@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Click Coordinates</title>
+    <style>
+        #overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+
+<div id="data-entry">
+    <label>WLC IP address: <input type="text" id="ipAddress"></label><br>
+    <label>Username: <input type="text" id="username"></label><br>
+    <label>Password: <input type="password" id="password"></label><br>
+    <label>Client MAC address: <input type="text" id="macAddress"></label><br>
+    <button onclick="submitData()">Submit</button>
+</div>
+
+<div id="image-section" style="display: none;">
+    <input type="file" id="imageUpload" accept="image/*" onchange="handleImageUpload()">
+    <br><br>
+    <p id="instruction">Please upload an image. Supposing the upper-left corner is (0,0), I'll ask you for the bottom-right corner coordinates for scale.</p>
+    <img id="image" style="display:none; position:relative;" alt="Uploaded Image" onload="handleImageLoad()">
+    <div id="overlay">Coordinates saved!</div>
+</div>
+
+<script>
+    let wlcIPAddress = '';
+    let username = '';
+    let password = '';
+    let clientMacAddress = '';
+
+    function submitData() {
+        wlcIPAddress = document.getElementById('ipAddress').value;
+        username = document.getElementById('username').value;
+        password = document.getElementById('password').value;
+        clientMacAddress = document.getElementById('macAddress').value;
+
+        document.getElementById('data-entry').style.display = 'none';
+        document.getElementById('image-section').style.display = 'block';
+    }
+
+    function handleImageUpload() {
+        const imageUpload = document.getElementById('imageUpload');
+        const image = document.getElementById('image');
+
+        const file = imageUpload.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                image.src = e.target.result;
+            }
+            reader.readAsDataURL(file);
+        }
+    }
+
+    function handleImageLoad() {
+        const image = document.getElementById('image');
+        const instruction = document.getElementById('instruction');
+
+        image.style.display = 'block';
+        const userInput = prompt("Please enter the coordinates of the bottom right corner in the format 'x,y'", "200,200");
+         if (userInput) {
+                const [inputX, inputY] = userInput.split(',').map(Number);
+                scaleX = inputX / image.width;
+                scaleY = inputY / image.height;
+                scaleSet = true;
+                instruction.textContent = "Now, click your location on the floorplan.";
+            }
+        }
+
+        image.addEventListener('click', function(event) {
+            if (!scaleSet) return; // Don't register clicks if scale isn't set
+
+            const rect = image.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            // Convert pixel coordinates to the provided scale
+            const scaledX = (x * scaleX).toFixed(2);
+            const scaledY = (y * scaleY).toFixed(2);
+
+            // Send scaled coordinates to server
+            fetch('/save-coordinates', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    clickedX: scaledX,
+                    clickedY: scaledY,
+		    wlcIPAddress: wlcIPAddress,
+        	    username: username,
+        	    password: password,
+        	    clientMacAddress: clientMacAddress
+                }),
+            }).then(response => {
+                if (response.ok) {
+		    const overlay = document.getElementById('overlay');
+                    overlay.style.display = 'flex';
+                    setTimeout(() => {
+                        overlay.style.display = 'none';
+                    }, 1500); // hide the overlay after 1.5 second
+                }
+            });
+        });
+
+
+</script>
+</body>
+</html>
+

@@ -1,0 +1,52 @@
+#!/usr/bin/expect -f
+
+# Timeout for the entire execution of the script
+set timeout 10
+
+# Grab arguments
+set host [lindex $argv 0]
+set user [lindex $argv 1]
+set password [lindex $argv 2]
+set macAddress [lindex $argv 3] ;# Assuming you might use this in the future
+
+set output_file "output.txt"
+
+# SSH to the remote host
+spawn sshpass -p $password ssh -o StrictHostKeyChecking=no $user@$host
+
+# Expect the level 15 prompt
+#sleep 0.5
+expect -re ".*#"
+
+# set the terminal length to loooong to get all the output
+send "term len 0\r"
+expect -re ".*#"
+
+# Send the command with the macAddress
+send "wireless client mac-address $macAddress scan-report once mode active bssid all ssid all operating-class network channel all delay default duration default\r"
+
+
+# Wait half a second
+#sleep 0.5
+expect -re ".*#"
+
+# Check the report
+send "show wireless client mac-address  $macAddress detail | section Scan Report\r"
+
+
+expect -re ".*#"
+#sleep 1
+
+
+# Capture the output
+set output $expect_out(buffer)
+
+# Append the output to a file
+set fileId [open "$output_file" a]
+puts -nonewline $fileId $output
+close $fileId
+
+# Exit the SSH session
+send "exit\r"
+expect eof
+
