@@ -5,6 +5,8 @@ You need to have a laptop (I use MacOS, so this demo is heavily geared toward Ma
 
 Then, at the end, two scripts allow you to cleanup the files you collected during your walk (DataPrep.ipynb) and plot the RF heatmaps of your APs, as seen by the client as you walked around (WiFi-heatmap.ipynb). These files use Jupypter notebook, but they are basic Python script, you can also open them with an editor and run the Python code outside of Jupyter if you prefer. 
 
+Check the tutorial [here](https://youtu.be/XhOG04FAsyQ)
+
 # Setup
 
 This setup supposes a C9800 WLC (running 17.1.1 or later), any C9100 AP or newer, and a Samsung galaxy S10 or later.
